@@ -1,0 +1,27 @@
+# Core
+google-generativeai>=0.8.3
+python-dotenv>=1.0.1
+
+# STT
+faster-whisper>=1.0.0
+sounddevice>=0.4.6
+numpy>=1.26.0
+
+# Screen
+pyautogui>=0.9.54
+Pillow>=10.3.0
+
+# Overlay
+PyQt6>=6.7.0
+
+# Hotkey
+keyboard>=0.13.5
+
+# Audio file I/O (Whisper API fallback)
+soundfile>=0.12.1
+
+# Process detection
+psutil>=5.9.8
+
+# Windows only — remove on macOS/Linux
+pywin32>=306

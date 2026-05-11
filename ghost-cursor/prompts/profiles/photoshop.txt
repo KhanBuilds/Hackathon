@@ -1,0 +1,10 @@
+Photoshop layout:
+- Toolbar: far-left vertical strip (Move V, Marquee M, Lasso L, Crop C, Brush B, etc.)
+- Options bar: horizontal bar at top below menu (tool-specific settings)
+- Layers panel: bottom-right (layer stack, blending modes, opacity)
+- Properties panel: right side (layer-specific adjustments)
+- Adjustments panel: right side (Curves, Levels, Hue/Saturation, etc.)
+- History panel: right side (undo states)
+- Color panel: right side (foreground/background color)
+- Menu bar: top (File, Edit, Image, Layer, Type, Select, Filter, View, Window, Help)
+- Document canvas: center area

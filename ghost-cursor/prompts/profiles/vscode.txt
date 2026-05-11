@@ -1,0 +1,8 @@
+VS Code layout:
+- Activity bar: far-left vertical strip (Explorer, Search, Source Control, Run, Extensions icons)
+- Sidebar: opens to the right of activity bar (file tree, search results, etc.)
+- Editor: center area with tabs at top
+- Terminal: bottom panel (toggle with Ctrl+`)
+- Status bar: very bottom strip (branch name, errors, language mode)
+- Command palette: triggered by Ctrl+Shift+P — appears as top-center dropdown
+- Settings gear icon: bottom-left of activity bar

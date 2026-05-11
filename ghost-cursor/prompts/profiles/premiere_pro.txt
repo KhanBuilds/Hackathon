@@ -1,0 +1,11 @@
+Premiere Pro layout:
+- Tools panel: left side, vertical strip (Selection V, Razor C, Pen P, Text T, etc.)
+- Project panel: bottom-left (media bins, sequences)
+- Source Monitor: top-left (preview imported clips)
+- Program Monitor: top-right (preview timeline output)
+- Timeline: bottom-center (tracks, clips, audio waveforms)
+- Effects panel: right side (Video Effects, Audio Effects)
+- Effect Controls: top-left area or floating (keyframes, transform, opacity, masks)
+- Lumetri Color: right panel (color grading scopes and wheels)
+- Essential Graphics: right panel (text/motion graphics)
+- Export: File > Export > Media (shortcut Ctrl+M)
